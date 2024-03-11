@@ -1,1 +1,1 @@
-cout >> "a bbaisd"
+cout << "a bbaisd"
